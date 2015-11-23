@@ -55,3 +55,7 @@ The Square class has many of the same methods as the Circle class. The Square in
 * contains_point?(x, y) - Returns true if the provided coordinates fall within or on the boundaries of the square. Returns false, otherwise.
 
 Use the formulas provided at [WolframAlpha](https://www.wolframalpha.com/input/?i=square) as a guide.
+
+### Rock, paper and scissors
+
+Write a program where the user can play a game of **Rock, Paper, Scissors** against the computer.
