@@ -93,4 +93,4 @@ Write a program where the user can play a game of **Rock, Paper, Scissors** agai
 
 ### Tic Tac Toe Printer
 
-Build a method print_grid that takes a single argument board. This argument should be a two dimensional array that represents the rows and columns of the tic tac toe board. Mrs. Fisher has provides some sample data to help.
+Build a method print_grid that takes a single argument board. This argument should be a two dimensional array that represents the rows and columns of the tic tac toe board.
