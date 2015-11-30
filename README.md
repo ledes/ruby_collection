@@ -90,3 +90,7 @@ Write a program where the user can play a game of **Rock, Paper, Scissors** agai
 * The user chooses their shape by typing `"r"` (rock), `"p"` (paper), or `"s"` (scissors) each round.
 * If the player enters an invalid shape, print an error message and start the next round.
 * If both players choose the same shape, it is a tie and no one wins the round.
+
+### Tic Tac Toe Printer
+
+Build a method print_grid that takes a single argument board. This argument should be a two dimensional array that represents the rows and columns of the tic tac toe board. Mrs. Fisher has provides some sample data to help.
