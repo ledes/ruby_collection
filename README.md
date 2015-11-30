@@ -56,10 +56,6 @@ The Square class has many of the same methods as the Circle class. The Square in
 
 Use the formulas provided at [WolframAlpha](https://www.wolframalpha.com/input/?i=square) as a guide.
 
-### Rock, paper and scissors
-
-Write a program where the user can play a game of **Rock, Paper, Scissors** against the computer.
-
 ### Leaderboard
 The NFL has tasked you with building a program that tracks game results as the season progresses. In this assignment, you will build a Ruby application that prints a leaderboard when your code runs. (For the non-sports fans, a leaderboard is a scoreboard that shows the name, number of wins, and number of losses for each team in the league.) First, define a `Team` class with the following attributes:
 
