@@ -69,7 +69,7 @@ The NFL has tasked you with building a program that tracks game results as the s
 - Losses (total number of losses)
 
 Then, using the data defined in `leaderboard.rb`, create an array containing Team objects corresponding to each team. You should then iterate through your array and output the name, number of wins, and number of losses for each team. Additionally, teams should be ordered by rank (teams with more wins are ranked and listed higher, teams with the same numbers of wins can be ranked in any order!).
-```
+
 --------------------------------------------------
 | Name      Rank      Total Wins    Total Losses |
 | Patriots  1         3             0            |
@@ -77,3 +77,18 @@ Then, using the data defined in `leaderboard.rb`, create an array containing Tea
 | Colts     3         0             2            |
 | Steelers  4         0             1            |
 --------------------------------------------------
+
+### Rock-paper-scissors
+
+Write a program where the user can play a game of **Rock, Paper, Scissors** against the computer.
+#### Requirements
+
+* The user is playing against a computer opponent in Rock, Paper, Scissors.
+* A game consists of a series of rounds until either player has won.
+* The first player to win two rounds is declared the winner and the game ends.
+* The number of rounds won by the player and the computer are shown each round.
+* Output the winner of the game before exiting.
+* The computer opponent randomly chooses between rock, paper, and scissors each round.
+* The user chooses their shape by typing `"r"` (rock), `"p"` (paper), or `"s"` (scissors) each round.
+* If the player enters an invalid shape, print an error message and start the next round.
+* If both players choose the same shape, it is a tie and no one wins the round.
