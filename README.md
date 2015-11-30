@@ -65,6 +65,7 @@ The NFL has tasked you with building a program that tracks game results as the s
 - Losses (total number of losses)
 
 Then, using the data defined in `leaderboard.rb`, create an array containing Team objects corresponding to each team. You should then iterate through your array and output the name, number of wins, and number of losses for each team. Additionally, teams should be ordered by rank (teams with more wins are ranked and listed higher, teams with the same numbers of wins can be ranked in any order!).
+```
 
 --------------------------------------------------
 | Name      Rank      Total Wins    Total Losses |
@@ -73,6 +74,7 @@ Then, using the data defined in `leaderboard.rb`, create an array containing Tea
 | Colts     3         0             2            |
 | Steelers  4         0             1            |
 --------------------------------------------------
+```
 
 ### Rock-paper-scissors
 
