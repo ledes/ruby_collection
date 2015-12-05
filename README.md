@@ -94,3 +94,16 @@ Write a program where the user can play a game of **Rock, Paper, Scissors** agai
 ### Tic Tac Toe Printer
 
 Build a method print_grid that takes a single argument board. This argument should be a two dimensional array that represents the rows and columns of the tic tac toe board.
+
+### OO-Marathon
+
+Build the "Zooniverse", a fictional location from the television series, ["The Mighty Boosh"](http://www.bbc.co.uk/comedy/mightyboosh/clips/episodes_series1.shtml).
+
+Let the tests drive your development.
+
+
+#### Objectives
+
+* Building objects in ruby
+* Object composition
+* TDD
