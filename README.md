@@ -155,3 +155,15 @@ Let the tests drive your development.
 * lib/leaderboard.rb
 
 * spec/leaderboard_spec.rb
+
+### Fibonacci
+
+Write a program that calculates the nth number in Fibonacci series.
+
+As an extra challenge, try to optimize your solution so that you can find
+the 1000th number in the Fibonacci Series in under a second.
+
+##### Files:
+* lib/fibonacci.rb
+
+* spec/fibonacci_spec.rb
