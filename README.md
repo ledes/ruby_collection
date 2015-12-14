@@ -167,3 +167,9 @@ the 1000th number in the Fibonacci Series in under a second.
 * lib/fibonacci.rb
 
 * spec/fibonacci_spec.rb
+
+### 99 Bottles of Beer on the Wall
+### Instructions
+
+Write a program that prints out the lyrics to that beloved classic ["99 Bottles of Beer on the Wall"][lyrics].
+As an added twist, add an exclamation point to the sentence for every 10 bottles of beer.
