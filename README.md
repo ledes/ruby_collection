@@ -11,9 +11,6 @@ Write code, in your choice of language, that takes as input a string and integer
 
 Example: "This is a great method!" , 24 -> "Rfgq gq y epcyr kcrfmb!"
 
-##### Files:
-  * lib/caesar_cipher.rb
-  * spec/caesar_cipher.rb
 
 ### Unique Values
 
@@ -23,10 +20,6 @@ Example:
 
 p = "To be, or not to be."
       f(p) == [['to', 2], ['be', 2], ['or', 1], ['not', 1]]
-
-##### Files:
-  * lib/unique_values.rb
-  * spec/unique_values_spec.rb
 
 ### Geometric Classes
 create a Circle class and a Square class in Ruby.
@@ -64,12 +57,6 @@ The Square class has many of the same methods as the Circle class. The Square in
 
 Use the formulas provided at [WolframAlpha](https://www.wolframalpha.com/input/?i=square) as a guide.
 
-##### Files:
-  * lib/circle.rb
-  * lib/square.rb
-
-  * spec/circle_spec.rb
-  * spec/square_spec.rb
 
 ### Leaderboard
 The NFL has tasked you with building a program that tracks game results as the season progresses. In this assignment, you will build a Ruby application that prints a leaderboard when your code runs. (For the non-sports fans, a leaderboard is a scoreboard that shows the name, number of wins, and number of losses for each team in the league.) First, define a `Team` class with the following attributes:
@@ -90,21 +77,7 @@ Then, using the data defined in `leaderboard.rb`, create an array containing Tea
 | Steelers  4         0             1            |
 --------------------------------------------------
 ```
-##### Files:
-  * lib/cage.rb
-  * lib/employee.rb
-  * lib/fox.rb
-  * lib/gorilla.rb
-  * lib/python.rb
-  * lib/zoo.rb
 
-
-  * spec/cage_spec.rb
-  * spec/employee_spec.rb
-  * spec/fox_spec.rb
-  * spec/gorilla_spec.rb
-  * spec/python_spec.rb
-  * spec/zoo_spec.rb
 
 ### Rock-paper-scissors
 
@@ -121,20 +94,11 @@ Write a program where the user can play a game of **Rock, Paper, Scissors** agai
 * If the player enters an invalid shape, print an error message and start the next round.
 * If both players choose the same shape, it is a tie and no one wins the round.
 
-##### Files:
-  * lib/rock_paper_scissor.rb
-
-  * spec/rock_paper_scissor_spec.rb
-
 
 ### Tic Tac Toe Printer
 
 Build a method print_grid that takes a single argument board. This argument should be a two dimensional array that represents the rows and columns of the tic tac toe board.
 
-##### Files:
-* lib/tic_tac_toe_printer.rb
-
-* spec/tic_tac_toe_printer_spec.rb
 
 
 ### OO-Marathon
@@ -143,18 +107,11 @@ Build the "Zooniverse", a fictional location from the television series, ["The M
 
 Let the tests drive your development.
 
-
 #### Objectives
 
 * Building objects in ruby
 * Object composition
 * TDD
-
-
-##### Files:
-* lib/leaderboard.rb
-
-* spec/leaderboard_spec.rb
 
 ### Fibonacci
 
@@ -163,10 +120,6 @@ Write a program that calculates the nth number in Fibonacci series.
 As an extra challenge, try to optimize your solution so that you can find
 the 1000th number in the Fibonacci Series in under a second.
 
-##### Files:
-* lib/fibonacci.rb
-
-* spec/fibonacci_spec.rb
 
 ### 99 Bottles of Beer on the Wall
 ### Instructions
